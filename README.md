@@ -15,6 +15,19 @@ https://github.com/user-attachments/assets/a5ecb708-3e7a-43c2-a000-008c3bf26847
 
 ---
 
+## 📱 Download APK
+
+**[⬇️ Download EchoCareXR APK (v1.0)](https://github.com/sambhav302005-coder/EchoCareXR/releases/tag/v1.0-xrcc)**
+
+Compatible with Android XR devices and Meta Quest headsets.
+
+### Installation Instructions
+1. Download the APK from the link above
+2. Enable "Install from Unknown Sources" on your device
+3. Install and launch EchoCareXR
+
+---
+
 ## 🌟 Features
 
 ### For Patients
