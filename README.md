@@ -9,9 +9,9 @@ A mixed reality solution transforming dementia care through spatial computing, c
 
 ## 🎥 Demo
 
-[![EchoCareXR Trailer](https://img.youtube.com/vi/1mRM9wfzRZY/maxresdefault.jpg)](https://www.youtube.com/watch?v=1mRM9wfzRZY)
+https://github.com/user-attachments/assets/a5ecb708-3e7a-43c2-a000-008c3bf26847
 
-**[▶️ Watch Trailer](https://www.youtube.com/watch?v=1mRM9wfzRZY)**
+**[▶️ Watch Full Trailer on YouTube](https://www.youtube.com/watch?v=1mRM9wfzRZY)**
 
 ---
 

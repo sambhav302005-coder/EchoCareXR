@@ -1,0 +1,11 @@
+[*.cs]
+# Basic stuff
+# indent_style = space
+# indent_size = 4
+# insert_final_newline = true
+# charset = utf-8
+
+# # ❌ Don't allow multiple consecutive blank lines (IDE2000)
+# dotnet_style_allow_multiple_blank_lines_experimental = false
+# dotnet_diagnostic.IDE2000.severity = warning
+
